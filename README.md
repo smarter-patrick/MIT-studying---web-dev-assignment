@@ -1,1 +1,1 @@
-# MIT-studying---web-dev-assignment
+# MIT-studying- responsive website design-assignment 2
